@@ -1,5 +1,3 @@
-Here's your revised README, incorporating your requested style while keeping it relevant to your **LeetCode SQL50** journey. 🚀  
-
 ---
 
 # 🚀 My SQL Learning Journey  
@@ -57,5 +55,3 @@ This is a personal learning repository, but if you have **alternative solutions,
 🔗 **LinkedIn**: [linkedin.com/in/shashank-pokala](https://linkedin.com/in/shashank-pokala)  
 
 ---
-
-Hope this looks good! Let me know if you'd like any modifications. 🚀
